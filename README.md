@@ -1,4 +1,4 @@
-# genz_kampung: URECA 23-24 @NTU
+# genz_kampung: Undergraduate Research Experience on Campus (URECA) '23-24 @NTU
 ## Research into the posting behaviours and habits of Singaporean and international students on Reddit
 ### Order of Usage:
 1. get_reddit_data 
