@@ -1,61 +1,54 @@
 Sport: Subreddits collecting discussions about
 sports or supporting teams or athletes.
 
-Food
-Health: Subreddits collecting discussions about
-food and related issues as well as health
-and wellbeing related problems.
+FoodHealth: Subreddits collecting discussions about food and health 
+related issues as well as health and wellbeing related problems.
 
 ComicGame: Subreddits collecting discussions about
-comics and games both online and offline.
+comics and games both online and offline.
 
-NewsPolSoc:
-Subreddits collecting discussions about
-news, politics (regardless the party involved) and societal issues such as migration or abortion.
-and religion/belief systems
+NewsPolSoc: Subreddits collecting discussions about
+news, religion/belief systems, politics (regardless the party involved),
+and societal issues such as migration or abortion.
 
-SciTech
-Subreddits collecting discussions about
-hard sciencies and technology from
-computers to cryptocurrencies.
+SciTech: Subreddits collecting discussions about hard sciences and 
+technology from computers to cryptocurrencies.
 
-Advice Subreddits collecting discussions about
-emotional issues and providing a forum
-where to share experiences and receive
-advice.
+Advice: Subreddits collecting discussions about emotional issues and 
+providing a forum to share experiences and receive advice.
 
-Humour Subreddits collecting humoristic and
-funny objects including memes.
+Humour: Subreddits collecting humoristic and funny objects 
+including memes.
 
-EntMedia
-Subreddits collecting discussions about
-books, movies (including tv series and
-shows), and music.
+EntMedia: Subreddits collecting discussions about books, 
+movies (including tv series and shows), and music.
 
-ImagVid Subreddits dedicted to collect images
-and videos including GIFs 
+ImagVid: Subreddits dedicted to collect images and videos including GIFs 
 
-FashLife Subreddit collecting discussions about
-fashion and lifestyle.
+FashLife: Subreddit collecting discussions about fashion and lifestyle.
 
-Stories
-Subreddits collecting stories from users
-regarding their daily experience and everyday life that are not related to existential problem or emotional issues or
-the request of support.
+Stories: Subreddits collecting stories from users regarding their daily
+experience and everyday life that are not related to existential 
+problem or emotional issues or the request of support.
 
-Howbbies Subreddits dedicate to guide and support users in technical problem or for
-discussing their hobbies/passions.
+Howbbies: Subreddits dedicate to guide and support users in technical 
+problem or for discussing their hobbies/passions.
 
-Arts
-Subreddits dedicated to discussion
-about soft sciences including History,
-Philosophy etc.
+Arts: Subreddits dedicated to discussion about soft sciences including 
+History, Philosophy etc.
 
-Places Subreddits dedicated to specific places/location.
+Places: Subreddits dedicated to specific places/locations.
 
-Others Subreddits that cannot be classified in
-the previous categories.
+SG: Subreddits dedicated to Singaporean communities
+
+Teens: Subreddits dedicated to teenaged Reddit users
+
+Sch: Subreddits dedicated to a community of students (usually 
+of a particular school)
+
+NSFW: Subreddits marked as not safe for work (NSFW) by Reddit
 
 Celeb: Subreddit dedicated to a person or group
 
-Easily conflated: Howbbies+FashLife/SciTech/Sport/Advice, EntMedia/Celeb
+Others: Subreddits that cannot be classified in
+the previous categories.
