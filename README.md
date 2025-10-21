@@ -9,7 +9,3 @@
 3. classify_subreddits
 4. calculate_shifts_drifts
 5. display_graphs
-   
-- TODO add non-code files: manual_subreddits.csv, Gen-Z Kampung.pdf, topic_definitions.txt
-- TODO optimize #5 pandas code and add classplot.ipynb to it
-- TODO write down the mathematical reason for occasional calculation failure in #4 (vaguely, some division by zero error)
